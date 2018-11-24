@@ -1,0 +1,3 @@
+I am a student at the University of Washington.
+Right now I study social psychology, 
+but lately I have been interested in integrating data science techniques.
