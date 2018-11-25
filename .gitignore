@@ -1,2 +1,7 @@
 *.dat
-results/
+results/*.out
+results/plots
+*.data
+!final.data
+results/data/position/gps/*.data
+log_*
